@@ -1,0 +1,30 @@
+.footer {
+    background-color: #6278F7;
+    color: #FFF;
+    padding: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer ul li {
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.logo {
+    margin-left: 64px;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+}
+
+.copy {
+    font-size: 20px;
+    color: #FFFFFF;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
